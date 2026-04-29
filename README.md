@@ -41,5 +41,5 @@ This project applies both financial analysis and clinical reasoning to insurance
 
 ## Contact
 - Patricia Mugabe
-- <a href='https://www.linkedin.com/in/patricia-mugabe/">My LinkedIn</a>
+- <a href="https://www.linkedin.com/in/patricia-mugabe/">My LinkedIn</a>
 - Email me: mugabepatricia@gmail.com
