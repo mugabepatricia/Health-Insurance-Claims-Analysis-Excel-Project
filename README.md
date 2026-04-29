@@ -32,6 +32,7 @@ Simulated claims data containing:
 ## Project Files
 - <a href="https://github.com/mugabepatricia/Health-Insurance-Claims-Analysis-Excel-Project/blob/main/claims%20exercise.xlsx">Insurance Dataset</a>
 - <a href="https://github.com/mugabepatricia/Health-Insurance-Claims-Analysis-Excel-Project/blob/main/Insurance%20Claims%20Analysis%20Project.xlsx">Insurance Claims Analysis Project</a>
+- <a href="https://github.com/mugabepatricia/Health-Insurance-Claims-Analysis-Excel-Project/blob/main/Insuramce%20Claims%20Dashboard.png">Dashboard Preview</a>
 
 ## Background
 Transitioning from clinical medicine (MBChB) into health data analytics. 
