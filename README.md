@@ -30,7 +30,7 @@ Simulated claims data containing:
 - Charts: Billed vs Paid by Provider Type, Claim Status by Diagnosis, Write-off Rate by Provider Type, Claims by Month, Prior Auth vs Claim Status, Top Members by Total Billed
 
 ## Project Files
-- <a href
+- <a href="https://github.com/mugabepatricia/Health-Insurance-Claims-Analysis-Excel-Project/blob/main/claims%20exercise.xlsx">Insurance Dataset</a>
 
 ## Background
 Transitioning from clinical medicine (MBChB) into health data analytics. 
