@@ -40,6 +40,6 @@ Transitioning from clinical medicine (MBChB) into health data analytics.
 This project applies both financial analysis and clinical reasoning to insurance claims data — interpreting patterns that require an understanding of how conditions present, are managed, and billed.
 
 ## Contact
-Patricia Mugabe
-<a href='https://www.linkedin.com/in/patricia-mugabe/">My LinkedIn</a>
-Email me: mugabepatricia@gmail.com
+- Patricia Mugabe
+- <a href='https://www.linkedin.com/in/patricia-mugabe/">My LinkedIn</a>
+- Email me: mugabepatricia@gmail.com
